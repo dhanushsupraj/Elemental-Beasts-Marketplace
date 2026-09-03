@@ -454,7 +454,7 @@ The seller can select an owned NFT and list it for sale by specifying a price in
 
 The marketplace displays NFTs that have been listed for sale, allowing buyers to browse available Elemental Beasts cards and their listing prices.
 
-![Marketplace - Buyer](SCREEN_SHOTS/01_Project_DEMO/05-marketplace-Listed_(Buyer).jpg)
+![Marketplace - Buyer](SCREEN_SHOTS/01_Project_DEMO/05-marketplace-listed_(Buyer).jpg)
 
 ---
 
