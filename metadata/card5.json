@@ -1,0 +1,11 @@
+{
+  "name": "Cinderjaw",
+  "description": "A wolf wreathed in embers, hunting in packs that leave scorched trails across the plains.",
+  "image": "PLACEHOLDER_IPFS_IMAGE_URI_5",
+  "attributes": [
+    { "trait_type": "Element", "value": "Fire" },
+    { "trait_type": "Rarity", "value": "Uncommon" },
+    { "trait_type": "Power", "value": 61 },
+    { "trait_type": "Habitat", "value": "Ashen Plains" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Abyssara",
+  "description": "A deep-sea leviathan rarely seen above the trench, whose presence bends light around it.",
+  "image": "PLACEHOLDER_IPFS_IMAGE_URI_6",
+  "attributes": [
+    { "trait_type": "Element", "value": "Water" },
+    { "trait_type": "Rarity", "value": "Rare" },
+    { "trait_type": "Power", "value": 78 },
+    { "trait_type": "Habitat", "value": "Midnight Trench" }
+  ]
+}

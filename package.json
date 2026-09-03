@@ -1,0 +1,20 @@
+{
+  "name": "elemental-beasts-marketplace",
+  "version": "1.0.0",
+  "description": "Decentralized NFT marketplace for unique digital game cards, built on Solidity + Hardhat + React + ethers.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia",
+    "upload:ipfs": "node scripts/uploadToIPFS.js"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0",
+    "dotenv": "^16.4.5"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "@pinata/sdk": "^2.1.0"
+  }
+}

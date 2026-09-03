@@ -1,0 +1,11 @@
+{
+  "name": "Tidalclaw",
+  "description": "A crab-like beast with coral armor, said to calm storms when it sings beneath the waves.",
+  "image": "PLACEHOLDER_IPFS_IMAGE_URI_2",
+  "attributes": [
+    { "trait_type": "Element", "value": "Water" },
+    { "trait_type": "Rarity", "value": "Common" },
+    { "trait_type": "Power", "value": 38 },
+    { "trait_type": "Habitat", "value": "Coral Reef" }
+  ]
+}

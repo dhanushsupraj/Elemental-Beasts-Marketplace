@@ -1,0 +1,11 @@
+{
+  "name": "Terravox",
+  "description": "An ancient stone golem that wakes only once a century, and remembers everything it has seen.",
+  "image": "PLACEHOLDER_IPFS_IMAGE_URI_7",
+  "attributes": [
+    { "trait_type": "Element", "value": "Earth" },
+    { "trait_type": "Rarity", "value": "Rare" },
+    { "trait_type": "Power", "value": 82 },
+    { "trait_type": "Habitat", "value": "Sunken Ruins" }
+  ]
+}

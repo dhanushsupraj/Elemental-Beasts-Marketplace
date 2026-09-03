@@ -1,0 +1,9 @@
+node_modules/
+.env
+cache/
+artifacts/
+coverage/
+coverage.json
+frontend/node_modules/
+frontend/dist/
+metadata/uploaded.json

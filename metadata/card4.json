@@ -1,0 +1,11 @@
+{
+  "name": "Galevane",
+  "description": "A hawk-shaped elemental that rides thunderstorms and never touches the ground.",
+  "image": "PLACEHOLDER_IPFS_IMAGE_URI_4",
+  "attributes": [
+    { "trait_type": "Element", "value": "Air" },
+    { "trait_type": "Rarity", "value": "Uncommon" },
+    { "trait_type": "Power", "value": 57 },
+    { "trait_type": "Habitat", "value": "Storm Peaks" }
+  ]
+}

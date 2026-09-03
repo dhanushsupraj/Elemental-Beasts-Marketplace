@@ -1,0 +1,11 @@
+{
+  "name": "Emberfang",
+  "description": "A young fire-drake whose scales glow like coals. Fiercely loyal once tamed, but quick to temper.",
+  "image": "PLACEHOLDER_IPFS_IMAGE_URI_1",
+  "attributes": [
+    { "trait_type": "Element", "value": "Fire" },
+    { "trait_type": "Rarity", "value": "Common" },
+    { "trait_type": "Power", "value": 42 },
+    { "trait_type": "Habitat", "value": "Volcanic Ridge" }
+  ]
+}

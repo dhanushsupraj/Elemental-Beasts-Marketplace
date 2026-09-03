@@ -1,0 +1,11 @@
+{
+  "name": "Aetherion",
+  "description": "A being of pure elemental convergence, said to appear only when all four elements fall into balance.",
+  "image": "PLACEHOLDER_IPFS_IMAGE_URI_8",
+  "attributes": [
+    { "trait_type": "Element", "value": "Convergence" },
+    { "trait_type": "Rarity", "value": "Legendary" },
+    { "trait_type": "Power", "value": 99 },
+    { "trait_type": "Habitat", "value": "The Nexus" }
+  ]
+}

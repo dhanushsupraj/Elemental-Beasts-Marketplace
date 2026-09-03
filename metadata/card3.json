@@ -1,0 +1,11 @@
+{
+  "name": "Rootling",
+  "description": "A tiny forest spirit that grows stronger the longer it stays rooted in one place.",
+  "image": "PLACEHOLDER_IPFS_IMAGE_URI_3",
+  "attributes": [
+    { "trait_type": "Element", "value": "Earth" },
+    { "trait_type": "Rarity", "value": "Common" },
+    { "trait_type": "Power", "value": 35 },
+    { "trait_type": "Habitat", "value": "Whispering Woods" }
+  ]
+}
