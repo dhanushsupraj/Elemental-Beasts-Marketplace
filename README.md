@@ -474,7 +474,7 @@ After a successful purchase, the NFT appears in the buyer's My Cards section, de
 
 ---
 
-## 🔍 SCREEN_SHOTS of Complete Process
+## 📸 🔍 SCREEN_SHOTS of Complete Process
 
 The screenshots above are selected **project demonstration screenshots** showing the main application workflow.
 
