@@ -412,6 +412,19 @@ The application is deployed on Ethereum Sepolia for development and demonstratio
 ---
 
 # 📸 Screenshots
+![Homepage](SCREEN_SHOTS/01_Project_DEMO/01-homepage_(Seller).jpg)
+
+![NFT Minting](SCREEN_SHOTS/01_Project_DEMO/02-minting_(Seller).jpg)
+
+![My Cards - Seller](SCREEN_SHOTS/01_Project_DEMO/03_My_Cards_(Seller).jpg)
+
+![Listing Card](SCREEN_SHOTS/01_Project_DEMO/04_Listing_card_(Seller).jpg)
+
+![Marketplace - Listed NFT](SCREEN_SHOTS/01_Project_DEMO/05-marketplace-Listed_(Buyer).jpg)
+
+![Buy a Listed NFT](SCREEN_SHOTS/01_Project_DEMO/06_Buy_a_listed_NFT_(Buyer).jpg)
+
+![My Cards - Buyer](SCREEN_SHOTS/01_Project_DEMO/07_My-Cards_(Buyer).jpg)
 
 Project screenshots and development documentation are available in:
 
