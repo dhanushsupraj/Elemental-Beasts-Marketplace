@@ -412,21 +412,79 @@ The application is deployed on Ethereum Sepolia for development and demonstratio
 ---
 
 # 📸 Screenshots
-![Homepage](SCREEN_SHOTS/01_Project_DEMO/01-homepage_(Seller).jpg)
 
-![NFT Minting](SCREEN_SHOTS/01_Project_DEMO/02-minting_(Seller).jpg)
+## Project Demo
+
+
+The following screenshots showcase the main features and end-to-end user flow of the Elemental Beasts Marketplace.
+
+### 1. Homepage — Seller View
+
+The marketplace homepage provides the main navigation for browsing the marketplace, connecting a wallet, minting cards, and viewing owned NFTs.
+
+![Homepage - Seller](SCREEN_SHOTS/01_Project_DEMO/01-homepage_(Seller).jpg)
+
+---
+
+### 2. NFT Minting — Seller View
+
+The minting interface allows the seller to select and mint an Elemental Beasts game card as an ERC-721 NFT directly to their connected wallet.
+
+![NFT Minting - Seller](SCREEN_SHOTS/01_Project_DEMO/02-minting_(Seller).jpg)
+
+---
+
+### 3. My Cards — Seller View
+
+The My Cards section displays the NFTs currently owned by the seller and provides options to manage their cards.
 
 ![My Cards - Seller](SCREEN_SHOTS/01_Project_DEMO/03_My_Cards_(Seller).jpg)
 
-![Listing Card](SCREEN_SHOTS/01_Project_DEMO/04_Listing_card_(Seller).jpg)
+---
 
-![Marketplace - Listed NFT](SCREEN_SHOTS/01_Project_DEMO/05-marketplace-Listed_(Buyer).jpg)
+### 4. Listing a Card — Seller View
 
-![Buy a Listed NFT](SCREEN_SHOTS/01_Project_DEMO/06_Buy_a_listed_NFT_(Buyer).jpg)
+The seller can select an owned NFT and list it for sale by specifying a price in ETH.
+
+![Listing Card - Seller](SCREEN_SHOTS/01_Project_DEMO/04_Listing_card_(Seller).jpg)
+
+---
+
+### 5. Marketplace — Buyer View
+
+The marketplace displays NFTs that have been listed for sale, allowing buyers to browse available Elemental Beasts cards and their listing prices.
+
+![Marketplace - Buyer](SCREEN_SHOTS/01_Project_DEMO/05-marketplace-Listed_(Buyer).jpg)
+
+---
+
+### 6. Buying a Listed NFT — Buyer View
+
+The buyer can purchase a listed NFT through MetaMask by approving the blockchain transaction and sending the required Sepolia ETH.
+
+![Buy a Listed NFT - Buyer](SCREEN_SHOTS/01_Project_DEMO/06_Buy_a_listed_NFT_(Buyer).jpg)
+
+---
+
+### 7. My Cards — Buyer View
+
+After a successful purchase, the NFT appears in the buyer's My Cards section, demonstrating the transfer of blockchain ownership.
 
 ![My Cards - Buyer](SCREEN_SHOTS/01_Project_DEMO/07_My-Cards_(Buyer).jpg)
 
-Project screenshots and development documentation are available in:
+---
+
+## 🔍 SCREEN_SHOTS of Complete Process
+
+The screenshots above are selected **project demonstration screenshots** showing the main application workflow.
+
+The complete process is documented separately in:
+
+`SCREEN_SHOTS/Complete_Process/`
+
+This folder contains approximately 31 screenshots covering the detailed journey, including project testing, deployment, frontend integration, and other implementation steps like PAYMENT through METAMASK ,Listing , Buying .
+
+Project screenshots of complete process are available in:
 
     SCREEN_SHOTS/
     ├── 01_Project_DEMO/
